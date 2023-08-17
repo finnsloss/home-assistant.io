@@ -450,15 +450,6 @@ Home Assistant supports the following integrations through Alexa using a Smart H
 
 The following integrations are currently supported:
 
-- [Requirements](#requirements)
-- [Create an Amazon Alexa Smart Home Skill](#create-an-amazon-alexa-smart-home-skill)
-- [Create an AWS Lambda Function](#create-an-aws-lambda-function)
-  - [Create an IAM Role for Lambda](#create-an-iam-role-for-lambda)
-  - [Add Code to the Lambda Function](#add-code-to-the-lambda-function)
-  - [Test the Lambda Function](#test-the-lambda-function)
-- [Configure the Smart Home Service Endpoint](#configure-the-smart-home-service-endpoint)
-- [Account Linking](#account-linking)
-- [Alexa Smart Home Integration Configuration](#alexa-smart-home-integration-configuration)
 - [Supported Platforms](#supported-platforms)
   - [Alarm Control Panel](#alarm-control-panel)
     - [Arming](#arming)
